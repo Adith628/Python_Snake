@@ -1,4 +1,4 @@
-
+#Python to play python snake game
 from tkinter import *
 import random
 
